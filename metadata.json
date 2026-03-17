@@ -1,0 +1,52 @@
+{
+  "name": "DashMind AI",
+  "tagline": "Conversational Analytics Engine for Real-Time Executive Intelligence",
+  "description": "DashMind AI is a next-generation conversational business intelligence platform that converts natural language queries into dynamic multi-chart dashboards and strategic insights. Users can upload structured datasets such as CSV files and instantly generate KPI summaries, trend analysis, category comparisons, and growth intelligence without writing SQL or using traditional BI tools.",
+
+  "features": [
+    "Conversational Dashboard Generation from Natural Language",
+    "Multi-Chart Executive Overview (Trend, Distribution, Ranking)",
+    "Smart KPI Engine with Growth and Performance Metrics",
+    "Natural Filter Parsing (Time, Category, Numeric Conditions)",
+    "CSV Upload with Automatic Schema Detection",
+    "Interactive Visualizations using Recharts",
+    "Offline Heuristic Analytics Engine (No External AI API Required)",
+    "Follow-up Query Support with Query History Context",
+    "Insight Engine with Trend and Stability Detection",
+    "Modern Glassmorphism SaaS Dashboard UI"
+  ],
+
+  "techStack": [
+    "React",
+    "TypeScript",
+    "TailwindCSS",
+    "Recharts",
+    "PapaParse",
+    "Lucide Icons"
+  ],
+
+  "capabilities": [
+    "Dynamic Aggregation and Grouping",
+    "Real-time Data Processing in Browser",
+    "Executive Insight Generation",
+    "Multi-metric Visualization Architecture",
+    "Extensible Design for ML Forecasting Integration",
+    "Scalable Dashboard Planning Engine"
+  ],
+
+  "category": "AI Analytics Platform",
+  "version": "1.0.0",
+  "author": "Mohammed Anaan",
+  "license": "MIT",
+
+  "futureRoadmap": [
+    "Backend Integration with FastAPI",
+    "Semantic Query Understanding using Embeddings",
+    "Predictive Analytics and Forecast Charts",
+    "User Authentication and Saved Dashboards",
+    "PDF Report Export and Sharing",
+    "Dataset Versioning and Persistence"
+  ],
+
+  "requestFramePermissions": []
+}

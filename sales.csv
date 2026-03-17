@@ -1,0 +1,13 @@
+product,year,region,revenue,quantity
+Laptop,2020,South,50000,120
+Laptop,2021,South,65000,150
+Laptop,2022,South,72000,170
+Mobile,2020,North,30000,200
+Mobile,2021,North,42000,250
+Mobile,2022,North,51000,290
+Tablet,2020,West,20000,90
+Tablet,2021,West,26000,110
+Tablet,2022,West,31000,140
+Headphones,2020,East,15000,180
+Headphones,2021,East,21000,220
+Headphones,2022,East,26000,260

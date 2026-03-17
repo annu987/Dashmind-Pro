@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <!-- Viewport -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Primary SEO -->
+    <title>DashMind AI — Conversational Business Intelligence</title>
+    <meta
+      name="description"
+      content="DashMind AI converts natural language queries into instant interactive dashboards. Upload CSV datasets and generate executive insights in seconds."
+    />
+
+    <!-- OpenGraph (Share Preview) -->
+    <meta property="og:title" content="DashMind AI" />
+    <meta property="og:description" content="Conversational dashboard intelligence platform." />
+    <meta property="og:type" content="website" />
+    <meta property="og:image" content="/preview.png" />
+
+    <!-- Theme -->
+    <meta name="theme-color" content="#020617" />
+
+    <!-- Fonts Preconnect -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <!-- Fonts -->
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&family=JetBrains+Mono:wght@300;400;600&display=swap"
+      rel="stylesheet"
+    />
+
+    <!-- Favicon (You can replace later) -->
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <!-- Preload Main Script for Performance -->
+    <link rel="modulepreload" href="/src/main.tsx" />
+  </head>
+
+  <body>
+    <!-- App Root -->
+    <div id="root"></div>
+
+    <!-- Optional Loading Screen -->
+    <style>
+      #root:empty::before {
+        content: "Initializing DashMind AI...";
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 100vh;
+        background: #020617;
+        color: #94a3b8;
+        font-family: monospace;
+        letter-spacing: 2px;
+        font-size: 12px;
+      }
+    </style>
+
+    <!-- App Entry -->
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
