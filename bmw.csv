@@ -1,3 +1,21 @@
 model,year,price,transmission,mileage,fuelType,tax,mpg,engineSize
-5 Series,2014,11200,Automatic,67068,Diesel,125,57.6,2.0
-6 Series,2018,27000,Manual,14827,Petrol,145,42.8,3.0
+3 Series,2014,11200,Manual,67068,Diesel,125,57.6,2.0
+3 Series,2016,14500,Automatic,52000,Diesel,145,60.1,2.0
+5 Series,2018,27000,Automatic,14827,Petrol,145,42.8,3.0
+1 Series,2017,13500,Manual,34000,Petrol,125,55.4,1.5
+X1,2019,22000,Automatic,21000,Diesel,145,58.9,2.0
+X3,2020,32000,Automatic,18000,Diesel,145,48.7,2.0
+2 Series,2015,15000,Manual,48000,Petrol,125,52.3,2.0
+4 Series,2018,26000,Automatic,25000,Diesel,145,49.6,2.0
+X5,2021,48000,Automatic,12000,Diesel,165,38.2,3.0
+3 Series,2022,35000,Automatic,9000,Petrol,165,45.5,2.0
+1 Series,2013,9000,Manual,82000,Diesel,120,61.4,1.6
+5 Series,2019,30000,Automatic,20000,Petrol,145,40.5,3.0
+X1,2016,17500,Manual,46000,Diesel,125,56.8,2.0
+2 Series,2020,28000,Automatic,15000,Petrol,145,47.9,2.0
+4 Series,2021,37000,Automatic,11000,Diesel,165,44.1,2.0
+X3,2017,24000,Automatic,39000,Diesel,145,50.2,2.0
+X5,2018,42000,Automatic,30000,Petrol,165,36.7,3.0
+3 Series,2015,13000,Manual,60000,Diesel,125,59.3,2.0
+1 Series,2022,29000,Automatic,8000,Petrol,165,46.9,1.5
+5 Series,2020,33000,Automatic,17000,Diesel,145,41.8,2.0
