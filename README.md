@@ -97,19 +97,3 @@ http://localhost:5173
 
 ---
 
-## 👨‍💻 Author
-
-**Mohammed Anaan**
-B.Tech – Artificial Intelligence & Machine Learning
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub and feel free to contribute!
